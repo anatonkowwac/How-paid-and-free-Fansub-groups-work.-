@@ -1,2 +1,21 @@
-# -
-This article talks about how Fansub groups in China including paid ones and free ones work. It's written in simplified Chinese, and mainly talks about those who translate YouTube channel videos. Thx for reading, and if u wanna transfer this article on other websites besides GitHub and bilibili, rules u need to follow are in README.md
+
+# 授权协议
+
+本代码库中文本均采用MIT协议。
+
+## 引用本文文本内容和转载协议
+
+若引用本文本，请公开文本内容，并声明本文原作者
+
+公开方式（以下任选其一）：
+
+- 在引用处或简介中注明本代码库链接或包含此文本的网页的链接
+- 以截图贴出引用片段及本文标题
+- 贴出本文文件内容
+
+声明作者方式（以下任选其一）：
+
+- 在视频本体或简介中注明样式来自本代码库，并提供本代码库链接
+- 在视频本体或简介中注明该样式来自GitHub agent_Logan
+
+在多个文本中重复使用可以只声明并公开一次，但每次观众询问文本出处来源均需要指向本库
